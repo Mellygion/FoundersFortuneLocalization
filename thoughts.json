@@ -86,6 +86,7 @@
 		"korean": "아얏. 좀 아파요.",
 		"chinese": "哎哟，这好痛啊。",
 		"italian": "Ahi. Fa male.",
+		"polish": "Ała. To boli!",
 	},
 	"thoughtTitle_MediumPain": {
 		"english": "Serious Pain",
@@ -115,6 +116,7 @@
 		"korean": "으악. 꽤 심하게 아프네요.",
 		"chinese": "啊，疼得好厉害啊。",
 		"italian": "Ahia. Fa molto male.",
+		"polish": "Ach, bardzo boli",
 	},
 	"thoughtTitle_ExtremePain": {
 		"english": "Extreme Pain",
@@ -144,6 +146,7 @@
 		"korean": "으아아아아... 참을 수 없이 아파요!",
 		"chinese": "啊……难以忍受啊!",
 		"italian": "Ooohhh... è insopportabile!",
+		"polish": "Ooooch! Ten ból jest nie do zniesienia!",
 	},
 	"thoughtTitle_Hungry": {
 		"english": "Hungry",
@@ -173,6 +176,7 @@
 		"korean": "저기... 뭘 먹은지 꽤 된 것 같아요.",
 		"chinese": "天啊...我好久没吃东西了。",
 		"italian": "Cavolo... non mangio da un po'.",
+		"polish": "Reety.... Dawno nie jadłem.",
 	},
 	"thoughtTitle_Exhausted": {
 		"english": "Exhausted",
@@ -202,6 +206,7 @@
 		"korean": "하루가 너무 길었어요... 지금 당장 잠들고 싶어요.",
 		"chinese": "这漫长的一天…我现在只想睡觉。",
 		"italian": "È stata una lunga giornata... voglio solo dormire adesso.",
+		"polish": "To był długi dzień ... Teraz po prostu chcę tylko pospać.",
 	},
 	"thoughtTitle_NewColony": {
 		"english": "New Colony",
@@ -231,6 +236,7 @@
 		"korean": "새로운 시작! 우리의 집을 만들어봐요!",
 		"chinese": "一个新的开始!我们在这里就像在自己家一样!",
 		"italian": "Un nuovo inizio! Facciamo di questo luogo la nostra casa!",
+		"polish": "Nowy początek! Poczujmy się tutaj jak w domu!",
 	},
 	"thoughtTitle_WellRested": {
 		"english": "Well Rested",
@@ -748,6 +754,7 @@
 		"korean": "%firstName%#{은} 자기 중심적이야. %heShe%가 말하는걸 참고 들을 수가 없어.",
 		"chinese": "%firstName%如此的充满自己%自己%。我无法忍受听他说话。",
 		"italian": "%firstName% si da così tante arie. Non potevo sopportare i suoi discorsi.",
+		"polish": "%firstName% jest niesamowicie zarozumiał%yA%.  Nie mogę już znieść %jegoJej% słuchania.",
 	},
 	"thoughtTitle_GoodDream": {
 		"english": "Good Dream",
@@ -1848,6 +1855,7 @@
 		"portuguese": "%firstName% apenas me insultou gravemente. Isso foi desnecessário!",
 		"chinese": "%firstName% 狠狠地侮辱了我。这很不公平！",
 		"italian": "%firstName% mi ha gravemente insultat%OA%. Era fuori luogo!",
+		"polish": "%firstName% poważnie mnie obrazi%iłaIł%. To było nie na miejscu!",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
@@ -2271,6 +2279,7 @@
 		"korean": "내 생각에, 나는 잘 하고 있는 것 같아.",
 		"chinese": "我想我做得很好。",
 		"italian": "Me la cavo abbastanza.",
+		"polish": "Myślę, że wszystko w porządku.",
 	},
 	"moodPhrase_Neutral2": {
 		"english": "Seems like a normal day to me.",
